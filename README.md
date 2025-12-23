@@ -40,6 +40,6 @@ Stores booking information.
 - `README.md` → project documentation
 
 ## Submission Links
-- GitHub Repo: 
+- GitHub Repo: https://github.com/izazalamz/Vehicle-Rental-System-PostgreSQL
 - ERD Link: https://drawsql.app/teams/izaz/diagrams/assignment3
 - Viva Video Link: <paste your video public link here>
