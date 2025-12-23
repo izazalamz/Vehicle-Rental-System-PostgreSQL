@@ -42,4 +42,4 @@ Stores booking information.
 ## Submission Links
 - GitHub Repo: https://github.com/izazalamz/Vehicle-Rental-System-PostgreSQL
 - ERD Link: https://drawsql.app/teams/izaz/diagrams/assignment3
-- Viva Video Link: <paste your video public link here>
+- Viva Video Link: https://drive.google.com/drive/folders/10ahJEUJby2ie4qq_G3fP0ATq8vHPc9sa?usp=sharing
